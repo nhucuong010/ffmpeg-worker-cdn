@@ -1,0 +1,28 @@
+{
+  "name": "ffmpeg-worker-cdn",
+  "version": "1.0.0",
+  "description": "FFmpeg WASM worker build optimized for CDN deployment with CORS support",
+  "main": "public/ffmpeg-core.js",
+  "scripts": {
+    "start": "http-server public -c-1 -p 8000"
+  },
+  "keywords": [
+    "ffmpeg",
+    "wasm",
+    "webassembly",
+    "worker",
+    "cdn",
+    "cors"
+  ],
+  "author": "nhucuong010",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhucuong010/ffmpeg-worker-cdn.git"
+  },
+  "files": [
+    "public",
+    "vercel.json",
+    "README.md"
+  ]
+}
