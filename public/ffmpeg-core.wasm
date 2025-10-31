@@ -1,0 +1,5 @@
+// FFmpeg WASM Binary Module (Placeholder)
+// This is a placeholder for the actual ffmpeg-core.wasm file
+// The real file is a WebAssembly binary module compiled from FFmpeg
+// Size: ~30-50MB typical for full FFmpeg build
+// Download from: https://github.com/ffmpegwasm/ffmpeg.wasm/releases
